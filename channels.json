@@ -1,14 +1,98 @@
 [
   {
     "name": "Hum TV",
-    "url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN"
+    "url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/humTV-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "Entertainment"
+  },
+  {
+    "name": "Geo Entertainment",
+    "url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/GeoEntertainment-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "Entertainment"
+  },
+  {
+    "name": "Green Entertainment",
+    "url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Green_Entertainment-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "Entertainment"
+  },
+  {
+    "name": "AAN TV",
+    "url": "https://cdn21lhr.tamashaweb.com:8087/jazzauth/AAN-TV-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "Entertainment"
+  },
+  {
+    "name": "Sab TV",
+    "url": "https://cdn23lhr.tamashaweb.com:8087/jazzauth/SabTV-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "Entertainment"
   },
   {
     "name": "ARY Digital",
-    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/playlist_dvr_timeshift-0-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI2IDQ6MzY6MjAgUE0maGFzaF92YWx1ZT1mMFpob1BHTTNYQmFjTlNyTHhuTitRPT0mdmFsaWRtaW51dGVzPTYw"
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arydigital-abr/playlist_dvr_timeshift-0-3600.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yOC8yMDI2IDQ6MzY6MjAgUE0maGFzaF92YWx1ZT1mMFpob1BHTTNYQmFjTlNyTHhuTitRPT0mdmFsaWRtaW51dGVzPTYw",
+    "group": "Entertainment"
+  },
+  {
+    "name": "ARY News",
+    "url": "https://cdn07isb.tamashaweb.com:8087/jazzauth/vsat-arynews-abr/playlist_dvr_timeshift-0-3600.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "GNN",
+    "url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/GNN-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "GTV News",
+    "url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/GTVNews-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "Aaj News",
+    "url": "https://cdn22lhr.tamashaweb.com:8087/jazzauth/AajNews-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "Suno News",
+    "url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/Suno_News-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "Neo News",
+    "url": "https://cdn05khi.tamashaweb.com:8087/jazzauth/NeoNews-abr/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "Samaa TV",
+    "url": "https://cdn5.mjunoon.tv:8087/web/SAMAA-173/playlist.m3u8?wmsAuthSign=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "News"
+  },
+  {
+    "name": "92 News",
+    "url": "https://tapmadlive.akamaized.net/tapmadold/92news.smil/playlist.m3u8?",
+    "group": "News"
+  },
+  {
+    "name": "24 News",
+    "url": "https://tapmadlive.akamaized.net/tapmadold/channel24.smil/playlist.m3u8?",
+    "group": "News"
+  },
+  {
+    "name": "Dunya News",
+    "url": "https://imob.dunyanews.tv/livehd/_definst_/ngrp:dunyalivehd_2_all/playlist.m3u8",
+    "group": "News"
   },
   {
     "name": "Geo News",
-    "url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/playlist.m3u8"
+    "url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/playlist.m3u8",
+    "group": "Sports"
+  },
+  {
+    "name": "Ten Sports",
+    "url": "https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8?hdnts=REPLACE_WITH_CURRENT_TOKEN",
+    "group": "Sports"
+  },
+ 
+  {
+    "name": "Discover Pakistan",
+    "url": "https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8",
+    "group": "Other"
   }
 ]
