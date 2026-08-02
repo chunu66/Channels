@@ -80,10 +80,18 @@
     "group": "News"
   },
   {
-    "name": "Geo News",
+    "name": "tamasha",
     "url": "https://cdn03isb-n.tamashaweb.com:8087/jazzauth/PAKvsWI-TEST26-abr/playlist.m3u8",
     "group": "Sports"
   },
+  
+  {
+    "name": "tampad",
+    "url": "https://premierleagpl23.akamaized.net/hls/live/2107108/tapmad-P2s6L_FiN@L-UrU/level_0.m3u8",
+    "group": "Sports"
+  },
+  
+  
   {
     "name": "Ten Sports",
     "url": "https://tapmadlive.akamaized.net/tapmadold/tensports.smil/playlist.m3u8?hdnts=REPLACE_WITH_CURRENT_TOKEN",
