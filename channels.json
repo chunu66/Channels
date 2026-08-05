@@ -106,12 +106,13 @@
 ]
 
 {
-  "title": "HUM NEWS LIVE: Latest Pakistan News, Live Updates, Headlines, Breaking News, Exclusive Coverage",
-  "videoId": "cleNtpjod6Q",
-  "type": "live",
-  "channel": "HUM News",
-  "viewCount": "942",
-  "uploadDate": "2026-04-27",
-  "url": "https://www.youtube.com/watch?v=cleNtpjod6Q"
-  "group": "news"
+  "name": "HUM News Live",
+  "url": "https://www.youtube.com/watch?v=cleNtpjod6Q",
+  "group": "News"
+}
+
+{
+  "name": "HUM News Live1",
+  "url": "https://www.youtube.com/embed/cleNtpjod6Q?autoplay=1",
+  "group": "News"
 }
