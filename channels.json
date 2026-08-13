@@ -91,9 +91,9 @@
   {
     "name": "Discover Pakistan",
     "url": "https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8",
-    "group": "Other"
+    "group": "travel"
   },
-  ]
+  
 
 
 {
@@ -106,4 +106,5 @@
   "name": "Geo News",
   "url": "http://192.142.36.208:8080/vip6671769357668/9c933f68998a/7563?token=TxBbUEFZGgNDXQwHUgNbClAAVwYOBwBRVQVcAQYAVFFXUARVBwkMXVkbFRREQRFcVwtsWFNECwdUAVcaF00WBEZtWlUQCxoNVg4KAg4XTxtCD15UFVwAB1kBUgQMAFdQGBBDWFYTAhtTCw4BBBdPG1MeR1RFCFBcPlMBQFxbAEMOXEZdXh0aVg9mXVNaVA1dFFwRABVKE1kSR0YMW00JDRgQUVhGQ1lNBBsDWEJZDxUUBVxEWRJDSUMNRmZ+GklDUUpHVFxCUVYPGwMUQ0ZBFRQPQG5FA0JEE1IFW1BKR1sWAhEdEFxZQT5aVlhZUABNXwldQhVcEwFDG0ZbWlYMFVtAbEFbVRoDQwsLAQIHQUQ=",
   "group": "News"
-}
+},
+]
