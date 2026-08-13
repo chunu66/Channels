@@ -92,14 +92,15 @@
     "name": "Discover Pakistan",
     "url": "https://livecdn.live247stream.com/discoverpakistan/tapmad/playlist.m3u8",
     "group": "Other"
-  }
-]
+  },
+  ]
+
 
 {
   "name": "HUM News Live",
   "url": "http://192.142.36.208:8080/vip6671769357668/9c933f68998a/7572?token=TxBbUEFZGgNDXA8FAwxQWAFWVVdSUQRRAAAADwZeBAIBClVUAFNbCFIbFRREQRFcVwtsWFNECwdUAFYaF00WBEZtWlUQCxoNVg4KAg4XTxtCD15UFVwAB1kBUgQMDlFXGBBDWFYTAhtZCwECFRlBXE4SVkNZB11vBVISX1ZdR1taR19dHhNXVz5dXFtWWwcbDEQCExtEWEMRFV5YQFQJTRZQWkVAUExcQwNXQ1tZTxtVCUZfQxRIElsVNH0XFEcETEZWX0FYV1dDAxtCRBdPG18VbENSFUVCBFYJU0caX0MEEB8TX1BAZgJWV1hSVhdQWQhAEw1EABJNFQlZW1ERDkZtQ1hWEwIbWQoPBRVI",
   "group": "News"
-}
+},
 
 {
   "name": "Geo News",
