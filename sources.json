@@ -1,0 +1,44 @@
+{
+  "playlists": [
+    {
+      "name": "CricHD Sports",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+      "type": "m3u",
+      "enabled": true
+    },
+    {
+      "name": "IPTV Org",
+      "url": "https://iptv-org.github.io/iptv/index.m3u",
+      "type": "m3u",
+      "enabled": true
+    },
+    {
+      "name": "My Personal Playlist",
+      "url": "http://filex.me:8080/get.php?username=3114654477&password=5787654467&type=m3u",
+      "type": "m3u",
+      "enabled": true
+    },
+    {
+      "name": "My JSON Channels",
+      "url": "https://raw.githubusercontent.com/chunu66/Channels/main/channels.json",
+      "type": "json",
+      "enabled": true
+    }
+  ],
+  "filter": {
+    "enabled": true,
+    "blocked_prefixes": [
+      "xx",
+      "xxx",
+      "18+",
+      "adult"
+    ],
+    "blocked_keywords": [
+      "adult",
+      "xxx",
+      "18+",
+      "hardcore",
+      "porn"
+    ]
+  }
+}
