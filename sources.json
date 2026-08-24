@@ -7,6 +7,12 @@
       "enabled": true
     },
     {
+      "name": "Pakistan",
+      "url": "http://filex.me:8080/get.php?username=3114654477&password=5787654467&type=m3u",
+      "type": "m3u",
+      "enabled": true
+    },
+    {
       "name": "My JSON Channels",
       "url": "https://raw.githubusercontent.com/chunu66/Channels/main/channels.json",
       "type": "json",
