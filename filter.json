@@ -1,22 +1,21 @@
 {
-  "enabled": true,
-  "mode": "whitelist",
-  "channels": [
-    
-    "Star Sports 1",
-
-"Star Sports 1 Hindi",
-
-"PTV Sports",
-
-"Willow HD",
-
-"Willow HD 2",
-
-"Ten Sports",
-
-"A Sports HD",
-
-"Sky Sports Cricket"
-  ]
+  "playlists": [
+    {
+      "name": "CricHD Sports",
+      "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
+      "type": "m3u",
+      "enabled": true
+    },
+    {
+      "name": "My JSON Channels",
+      "url": "https://raw.githubusercontent.com/chunu66/Channels/main/channels.json",
+      "type": "json",
+      "enabled": true
+    }
+  ],
+  "filter": {
+    "enabled": true,
+    "blocked_prefixes": ["xx", "xxx", "18+", "adult"],
+    "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"]
+  }
 }
