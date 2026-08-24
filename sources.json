@@ -29,7 +29,13 @@
   ],
   "filter": {
     "enabled": true,
-    "blocked_prefixes": ["xx", "xxx", "18+", "adult","unknown"],
-    "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"]
+    "blocked_prefixes": ["xx", "xxx", "18+", "adult"],
+    "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"],
+    "blocked_groups": ["Adult", "XXX", "18+", "Unknown"],
+    "group_whitelist": {
+      "Entrtainment": ["Hum TV", "Geo Entertainment", "ARY Digital"],
+      "New": ["Geo News", "ARY News", "Dunya News"],
+      "Spors": ["Star Sports 1", "PTV Sports", "Ten Sports"]
+    }
   }
 }
