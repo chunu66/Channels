@@ -31,7 +31,7 @@
     "enabled": true,
     "blocked_prefixes": ["xx", "xxx", "18+", "adult"],
     "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"],
-    "blocked_groups": ["Adult", "XXX", "18+", "Unknown", Live Events","Bangla"],
+    "blocked_groups": ["Adult", "XXX", "18+", "Unknown", "Live Events","Bangla"],
     "group_whitelist": {
       "Entrtainment": ["Hum TV", "Geo Entertainment", "ARY Digital"],
       "New": ["Geo News", "ARY News", "Dunya News"],
