@@ -6,7 +6,6 @@
       "type": "m3u",
       "enabled": true
     },
-    
     {
       "name": "My JSON Channels",
       "url": "https://raw.githubusercontent.com/chunu66/Channels/main/channels.json",
@@ -16,18 +15,7 @@
   ],
   "filter": {
     "enabled": true,
-    "blocked_prefixes": [
-      "xx",
-      "xxx",
-      "18+",
-      "adult"
-    ],
-    "blocked_keywords": [
-      "adult",
-      "xxx",
-      "18+",
-      "hardcore",
-      "porn"
-    ]
+    "blocked_prefixes": ["xx", "xxx", "18+", "adult"],
+    "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"]
   }
 }
