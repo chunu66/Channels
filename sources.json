@@ -29,7 +29,7 @@
   ],
   "filter": {
     "enabled": true,
-    "blocked_prefixes": ["xx", "xxx", "18+", "adult"],
+    "blocked_prefixes": ["xx", "xxx", "18+", "adult","unknown"],
     "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"]
   }
 }
