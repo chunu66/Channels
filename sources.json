@@ -33,9 +33,9 @@
     "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"],
     "blocked_groups": ["Adult", "XXX", "18+", "Unknown", "Live Events","Bangla"],
     "group_whitelist": {
-      "Entrtainment": ["Hum TV", "Geo Entertainment", "ARY Digital"],
-      "New": ["Geo News", "ARY News", "Dunya News"],
-      "Spors": ["Star Sports 1", "PTV Sports", "Ten Sports"]
+      "Entertainment": ["Hum TV", "Geo Entertainment", "ARY Digital"],
+      "News": ["Geo News", "ARY News", "Dunya News"],
+      "Sports": ["Star Sports 1", "PTV Sports", "Ten Sports"]
     }
   }
 }
