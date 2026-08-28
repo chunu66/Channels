@@ -11,14 +11,14 @@
       "name": "Ejaz",
       "url": "https://raw.githubusercontent.com/ashik4u/iptv-m3u-bot/refs/heads/main/output/all.m3u",
       "type": "m3u",
-      "enabled": true
+      "enabled": false
     },
     
     {
       "name": "Pakistan",
       "url": "http://filex.me:8080/get.php?username=3114654477&password=5787654467&type=m3u",
       "type": "m3u",
-      "enabled": true
+      "enabled": false
     },
     {
       "name": "My JSON Channels",
