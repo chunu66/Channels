@@ -4,7 +4,7 @@
       "name": "CricHD Sports",
       "url": "https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/ALL.m3u",
       "type": "m3u",
-      "enabled": false
+      "enabled": true
     },
     
     {
@@ -28,7 +28,7 @@
     }
   ],
   "filter": {
-    "enabled": true,
+    "enabled": false,
     "blocked_prefixes": ["xx", "xxx", "18+", "adult"],
     "blocked_keywords": ["adult", "xxx", "18+", "hardcore", "porn"],
     "blocked_groups": ["Adult", "XXX", "18+", "Unknown", "Live Events","Bangla"],
