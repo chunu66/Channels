@@ -24,7 +24,7 @@
       "name": "My JSON Channels",
       "url": "https://raw.githubusercontent.com/chunu66/Channels/main/channels.json",
       "type": "json",
-      "enabled": true
+      "enabled": false
     }
   ],
   "filter": {
